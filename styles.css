@@ -208,6 +208,11 @@ body p{
   
 }
 
+.extra .youtubelinks {
+  display: flex;
+  flex-direction: column;
+}
+
 .extra .extralinks {
   display: flex;
   flex-direction: column;
